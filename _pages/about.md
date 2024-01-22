@@ -22,7 +22,7 @@ Kinetic Theory
 
 Preprints
 ------
-1.(Preprint) Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space. Joint work with Zhenfu Wang. [Arxiv](https://arxiv.org/pdf/2310.05156.pdf)
+· (Preprint) Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space. Joint work with Zhenfu Wang. [Arxiv](https://arxiv.org/pdf/2310.05156.pdf)
 
 Create content & metadata
 ------
