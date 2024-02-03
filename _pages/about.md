@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student in the fourth year from the [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).
+I am currently an undergraduate student in the fourth year from the [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Here is my [CV](../assets/CV.pdf).
 
 I am expected to start my Ph.D. programme under the supervision of Professor [Zhenfu Wang](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/) in [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/), Peking University in September 2024.
 
