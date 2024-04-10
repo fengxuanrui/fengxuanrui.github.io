@@ -22,6 +22,6 @@ Research Interests
 
 Preprints
 ------
-· (Preprint) Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space. Joint work with Zhenfu Wang. [Arxiv](https://arxiv.org/pdf/2310.05156.pdf)
+· With Zhenfu Wang, Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space. Submitted to Peking Mathematical Journal. [Arxiv](https://arxiv.org/pdf/2310.05156.pdf)
 
 
