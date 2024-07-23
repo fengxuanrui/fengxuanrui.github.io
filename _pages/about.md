@@ -19,11 +19,14 @@ Research Interests
 · Kinetic Theory and Mean-field Theory
 
 Preprints
-------
+======
 · With José Antonio Carrillo, Shuchen Guo, Pierre-Emmanuel Jabin and Zhenfu Wang, Relative Entropy Method for Particle Approximation of the Landau Equation with Maxwellian Molecules. In Preparation.
 
 · With Zhenfu Wang, Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space. Submitted to Peking Mathematical Journal. [Arxiv](https://arxiv.org/pdf/2310.05156.pdf)
 
+Teaching
+======
+· TA for [Advanced Mathematics D], Peking University, Sep 2024-Jan 2025.
 
 
 
