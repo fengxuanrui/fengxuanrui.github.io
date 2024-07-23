@@ -8,20 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student in the fourth year from the [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Here is my [CV](../assets/CV.pdf).
-
-I am expected to start my Ph.D. programme under the supervision of Professor [Zhenfu Wang](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/) in [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/), Peking University in September 2024.
+I am currently a Ph.D. student in the first year at the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) (SMS) and the [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/) (BICMR), [Peking University](https://www.pku.edu.cn/) (PKU), under the supervision of Professor [Zhenfu Wang](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/) in BICMR. Here is my [CV](../assets/CV.pdf).
 
 Research Interests
 ======
 · Partial Differential Equations
 
-· Many Particle Systems
+· Propagation of Chaos for Many Particle Systems
 
-· Kinetic Theory
+· Kinetic Theory and Mean-field Theory
 
 Preprints
 ------
+· With José Antonio Carrillo, Shuchen Guo, Pierre-Emmanuel Jabin and Zhenfu Wang, Relative Entropy Method for Particle Approximation of the Landau Equation with Maxwellian Molecules. In Preparation.
+
 · With Zhenfu Wang, Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space. Submitted to Peking Mathematical Journal. [Arxiv](https://arxiv.org/pdf/2310.05156.pdf)
+
+
 
 
