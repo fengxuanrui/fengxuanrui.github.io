@@ -13,6 +13,7 @@ You can find all the textbooks and lecture notes of this course here.
 Textbooks
 ======
 [Textbook](../files/textbook.pdf)
+
 [Exercise](../files/exercise.pdf)
 
 Lecture Notes
