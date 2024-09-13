@@ -1,16 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Advanced Mathematics D"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Peking University, School of Mathematical Sciences"
+date: 2024
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+You can find all the textbooks and lecture notes of this course here.
 
-Heading 1
+Textbooks
 ======
 
 Heading 2
