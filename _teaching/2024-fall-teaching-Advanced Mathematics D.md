@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-Advanced Mathematics D
 venue: "Peking University, School of Mathematical Sciences"
-date: 2024
+date: 2024-09-10
 location: "Beijing, China"
 ---
 
