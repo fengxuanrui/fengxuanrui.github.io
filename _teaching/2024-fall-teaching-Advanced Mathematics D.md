@@ -13,8 +13,7 @@ You can find all the textbooks and lecture notes of this course here.
 Textbooks
 ======
 
-Heading 2
+Lecture Notes
 ======
 
-Heading 3
-======
+
