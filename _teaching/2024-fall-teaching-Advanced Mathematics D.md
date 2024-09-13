@@ -8,7 +8,7 @@ date: 2024-09-10
 location: "Beijing, China"
 ---
 
-You can find all the textbooks and lecture notes of this course here.
+Thank you for choosing the course 2024 Fall Advanced Mathematics D by Professor Zuoli Xiao and I am glad to be your TA. You can find all the related sources of this course here.
 
 Textbooks
 ======
@@ -18,6 +18,6 @@ Textbooks
 
 Lecture Notes
 ======
-TBA
+[Classical Lecture Notes by Yantong Xie for Advanced Mathematics B](https://darkoxie.github.io/)
 
 
