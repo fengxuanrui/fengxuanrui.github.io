@@ -14,9 +14,9 @@ Research Interests
 ======
 · Partial Differential Equations
 
-· Propagation of Chaos for Many Particle Systems
+· Mean-field Theory and Propagation of Chaos for Many Particle Systems
 
-· Kinetic Theory and Mean-field Theory
+· Kinetic Theory
 
 Preprints
 ======
