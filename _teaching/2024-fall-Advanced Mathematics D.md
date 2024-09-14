@@ -12,9 +12,9 @@ Welcome to the course 2024 Fall Advanced Mathematics D by Professor Zuoli Xiao a
 
 Textbooks
 ======
-[Textbook](../files.textbook.pdf)
+[Textbook](../files/textbook.pdf)
 
-[Exercise](../files.exercise.pdf)
+[Exercise](../files/exercise.pdf)
 
 Lecture Notes
 ======
