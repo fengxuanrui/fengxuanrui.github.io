@@ -26,7 +26,7 @@ Preprints
 
 Teaching
 ======
-· TA for Advanced Mathematics D, Peking University, Sep 2024-Jan 2025.
+· TA for Advanced Mathematics D, Peking University, Sep. 2024-Jan. 2025.
 
 
 
