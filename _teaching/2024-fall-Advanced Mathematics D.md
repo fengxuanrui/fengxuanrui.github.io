@@ -23,5 +23,7 @@ Lecture Notes
 Solutions to Homework
 ======
 [Solutions 1](../assets/Solutions1.pdf)
+
 [Solutions 2](../assets/Solutions2.pdf)
+
 [Solutions 3](../assets/Solutions3.pdf)
