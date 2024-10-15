@@ -8,7 +8,7 @@ date: 2024-09-14
 location: "Beijing, China"
 ---
 
-Welcome to the course 2024 Fall Advanced Mathematics D by Professor Zuoli Xiao and I am glad to be your TA. You can find all the textbooks and lecture notes of this course here.
+Welcome to the course Advanced Mathematics D 2024 Fall by Professor Zuoli Xiao and I am glad to be your TA. This area is prepared for collection of relevant files. You can find the textbooks, lecture notes and solutions to homework of this course here.
 
 Textbooks
 ======
