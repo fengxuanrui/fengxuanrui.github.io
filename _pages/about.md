@@ -20,6 +20,10 @@ Research Interests
 
 Preprints
 ======
+· With Shuzhe Cai, Yun Gong, Zhenfu Wang, Propagation of Chaos for 2D Particle System with Coulomb Interaction on the Whole Space. Forthcoming.
+
+· With Zhenfu Wang, Quantitative Propagation of Chaos for 2D Viscous Vortex Model with General Circulations on the Whole Space. Forthcoming.
+
 · With José Antonio Carrillo, Shuchen Guo, Pierre-Emmanuel Jabin and Zhenfu Wang, Relative Entropy Method for Particle Approximation of the Landau Equation for Maxwellian Molecules. [arXiv](https://arxiv.org/pdf/2408.15035)
 
 · With Zhenfu Wang, Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space. Submitted to Peking Mathematical Journal. [arXiv](https://arxiv.org/pdf/2310.05156.pdf)
