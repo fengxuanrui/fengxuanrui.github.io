@@ -20,10 +20,12 @@ Lecture Notes
 ======
 [Classical Lecture Notes by Yantong Xie for Advanced Mathematics B](https://darkoxie.github.io/)
 
+[Lecture Notes 1](../assets/Lecture_Notes_1.pdf)
+
 Solutions to Homework
 ======
 [Solutions 1](../assets/Solutions1.pdf)
 
 [Solutions 2](../assets/Solutions2.pdf)
 
-[Solutions 3](../assets/Solutions3.pdf)
+[Solutions 3]
