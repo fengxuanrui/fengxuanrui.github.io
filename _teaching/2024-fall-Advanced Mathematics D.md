@@ -28,4 +28,4 @@ Solutions to Homework
 
 [Solutions 2](../assets/Solutions2.pdf)
 
-[Solutions 3]
+[Solutions 3](../assets/Solutions3.pdf)
