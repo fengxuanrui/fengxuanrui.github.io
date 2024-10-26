@@ -29,3 +29,24 @@ Solutions to Homework
 [Solutions 2](../assets/Solutions2.pdf)
 
 [Solutions 3](../assets/Solutions3.pdf)
+
+[Solutions 4](../assets/Solutions_4.pdf)
+
+[Solutions 5]
+
+Exams
+======
+[Midterm Exam 2018](../assets/MidtermExam-Calculus2018.pdf)
+
+[Midterm Exam 2019 with Solutions](../assets/MidtermExam-Calculus2019.pdf)
+
+[Midterm Exam 2021](../images/MidtermExam-Calculus2021.jpeg)
+
+[Midterm Exam 2023](../assets/MidtermExam-Calculus2023.pdf)
+
+[Midterm Exam 2023 Solutions 1](../images/MidtermExam-Calculus2023-Solution1.jpg)
+
+[Midterm Exam 2023 Solutions 2](../images/MidtermExam-Calculus2023-Solution2.jpg)
+
+[Midterm Exam 2023 Solutions 3](../images/MidtermExam-Calculus2023-Solution3.jpg)
+
