@@ -22,6 +22,8 @@ Lecture Notes
 
 [Lecture Notes 1](../assets/Lecture_Notes_1.pdf)
 
+[Lecture Notes 2](../assets/Lecture_Notes_2.pdf)
+
 Solutions to Homework
 ======
 [Solutions 1](../assets/Solutions1.pdf)
