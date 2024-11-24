@@ -40,7 +40,7 @@ Solutions to Homework
 
 [Solutions 6](../assets/Solutions_6.pdf)
 
-[Solutions 7](../assets/Solutions_7/pdf)
+[Solutions 7](../assets/Solutions_7.pdf)
 
 Exams
 ======
