@@ -1,7 +1,7 @@
 ---
 title: "TA for Advanced Mathematics D"
 collection: teaching
-type: "Undergraduate public course"
+type: "Undergraduate Public Course"
 permalink: /teaching/2024-fall-Advanced Mathematics D
 venue: "Peking University, School of Mathematical Sciences"
 date: 2024-09-14
@@ -39,6 +39,8 @@ Solutions to Homework
 [Solutions 5](../assets/Solutions_5.pdf)
 
 [Solutions 6](../assets/Solutions_6.pdf)
+
+[Solutions 7](../assets/Solutions_7/pdf)
 
 Exams
 ======
