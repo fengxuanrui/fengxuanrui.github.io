@@ -44,6 +44,10 @@ Solutions to Homework
 
 [Solutions 7](../assets/Solutions_7.pdf)
 
+[Solutions 8](../assets/Solutions_8.pdf)
+
+[Solutions 9](../assets/Solutions_9.pdf)
+
 Exams
 ======
 [Midterm Exam 2018](../assets/MidtermExam-Calculus2018.pdf)
