@@ -30,6 +30,8 @@ Lecture Notes
 
 [Lecture Notes 5](../assets/Lecture_Notes_5.pdf)
 
+[Lecture Notes 6](../assets/Lecture_Notes_6.pdf)
+
 Solutions to Homework
 ======
 [Solutions 1](../assets/Solutions1.pdf)
@@ -49,6 +51,12 @@ Solutions to Homework
 [Solutions 8](../assets/Solutions_8.pdf)
 
 [Solutions 9](../assets/Solutions_9.pdf)
+
+[Solutions 10](../assets/Solutions_10.pdf)
+
+[Solutions 11](../assets/Solutions_11.pdf)
+
+[Solutions 12](../assets/Solutions_12.pdf)
 
 Exams
 ======
