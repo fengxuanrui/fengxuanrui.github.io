@@ -58,7 +58,7 @@ Solutions to Homework
 
 [Solutions 12](../assets/Solutions_12.pdf)
 
-Exams
+Midterm Exams
 ======
 [Midterm Exam 2018](../assets/MidtermExam-Calculus2018.pdf)
 
@@ -76,3 +76,26 @@ Exams
 
 [Midterm Exam 2024](../assets/MidtermExam-Calculus2024.pdf)
 
+Final Exams
+======
+[Final Exam 2017](../assets/FinalExam-Calculus2017.pdf)
+
+[Final Exam 2019 with Solutions](../assets/FinalExam-Calculus2019Solutions.pdf)
+
+[Final Exam 2020](../assets/FinalExam-Calculus2020.pdf)
+
+[Final Exam 2020 with Solutions](../assets/FinalExam-Calculus2020Solutions.pdf)
+
+[Final Exam 2021 with Solutions](../assets/FinalExam-Calculus2021Solutions.pdf)
+
+[Final Exam 2022A](../assets/FinalExam-Calculus2022A.pdf)
+
+[Final Exam 2022A with Solutions](../assets/FinalExam-Calculus2022ASolutions.pdf)
+
+[Final Exam 2022B](../assets/FinalExam-Calculus2022B.pdf)
+
+[Final Exam 2022B with Solutions](../assets/FinalExam-Calculus2022BSolutions.pdf)
+
+[Final Exam 2023](../assets/FinalExam-Calculus2023.pdf)
+
+[Final Exam 2023 with Solutions](../assets/FinalExam-Calculus2023Solutions.pdf)
