@@ -26,7 +26,7 @@ Preprints
 
 · With José Antonio Carrillo, Shuchen Guo, Pierre-Emmanuel Jabin and Zhenfu Wang, Relative Entropy Method for Particle Approximation of the Landau Equation for Maxwellian Molecules. [arXiv](https://arxiv.org/abs/2408.15035)
 
-· With Zhenfu Wang, Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space. Submitted to Peking Mathematical Journal. [arXiv](https://arxiv.org/abs/2310.05156)
+· With Zhenfu Wang, Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space. [arXiv](https://arxiv.org/abs/2310.05156)
 
 Teaching
 ======
