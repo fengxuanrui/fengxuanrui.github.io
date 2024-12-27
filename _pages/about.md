@@ -28,6 +28,12 @@ Preprints
 
 · With Zhenfu Wang, Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space. [arXiv](https://arxiv.org/abs/2310.05156)
 
+Talks
+======
+· 2024-12-27, Quantitative Propagation of Chaos for Singular First-order System on the Whole Space. [Stochastic Webinar](https://math.bit.edu.cn/xsbg/5d6f3f77f0e247d8a2068492ff3b5e5d.htm), Chinese Academy of Sciences and Beijing Institute of Technology, Online. [slides](../assets/Slides_Talk_at_Stochastic_Webinar_2024_12_27.pdf) [video](https://www.bilibili.com/video/BV1P7CJYLE2N/?spm_id_from=333.999.0.0&vd_source=edef62aa59160378e3025dbf586dfdd0)
+
+· 2024-12-20, Quantitative Propagation of Chaos for Singular First-order System on the Whole Space. Top-notch Student Program Meeting, Peking University, Beijing, China. [slides](../assets/Slides_Talk_at_Top_notch_Student_Program_Meeting_2024_12_20.pdf)
+
 Teaching
 ======
 · TA for Advanced Mathematics D, Peking University, Sep. 2024-Jan. 2025.
