@@ -32,7 +32,7 @@ Preprints
 
 Talks
 ======
-· 2025-04-26, Quantitative Propagation of Chaos for Singular First-order System on the Whole Space. [Workshop on Mean Field Limit](https://bicmr.pku.edu.cn/content/show/17-3622.html?catid=KiQhKyYs), Peking University, Beijing, China. [slides](../assets/Slides_Talk_at_Stochastic_Webinar_2024_12_27.pdf)
+· 2025-04-26, Quantitative Propagation of Chaos for Singular First-order System on the Whole Space. [Workshop on Mean Field Limit](https://bicmr.pku.edu.cn/content/show/17-3622.html?catid=KiQhKyYs), Peking University, Beijing, China. [slides](../assets/Slides_Talk_at_Workshop_on_Mean_Field_Limit_2025_04_26.pdf)
 
 · 2024-12-27, Quantitative Propagation of Chaos for Singular First-order System on the Whole Space. [Stochastic Webinar](https://math.bit.edu.cn/xsbg/5d6f3f77f0e247d8a2068492ff3b5e5d.htm), Chinese Academy of Sciences and Beijing Institute of Technology, Online. [slides](../assets/Slides_Talk_at_Stochastic_Webinar_2024_12_27.pdf) [video](https://www.bilibili.com/video/BV1P7CJYLE2N/?spm_id_from=333.999.0.0&vd_source=edef62aa59160378e3025dbf586dfdd0)
 
