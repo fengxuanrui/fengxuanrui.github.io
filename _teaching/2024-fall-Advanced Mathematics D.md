@@ -1,5 +1,5 @@
 ---
-title: "TA for Advanced Mathematics D"
+title: "TA for Advanced Mathematics D 2024 Fall"
 collection: teaching
 type: "Undergraduate Public Course"
 permalink: /teaching/2024-fall-Advanced Mathematics D
