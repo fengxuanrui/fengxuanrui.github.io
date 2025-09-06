@@ -78,14 +78,6 @@ Midterm Exams
 
 Final Exams
 ======
-[Final Exam 2017](../assets/FinalExam-Calculus2017.pdf)
-
-[Final Exam 2019 with Solutions](../assets/FinalExam-Calculus2019Solutions.pdf)
-
-[Final Exam 2020](../assets/FinalExam-Calculus2020.pdf)
-
-[Final Exam 2020 with Solutions](../assets/FinalExam-Calculus2020Solutions.pdf)
-
 [Final Exam 2021 with Solutions](../assets/FinalExam-Calculus2021Solutions.pdf)
 
 [Final Exam 2022A](../assets/FinalExam-Calculus2022A.pdf)
