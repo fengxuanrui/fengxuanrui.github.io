@@ -22,6 +22,10 @@ Lecture Notes
 
 [Lecture Notes 2024](../assets/Lecture_Notes_2024.pdf)
 
+[Lecture Notes 1](../assets/2025_Lecture_Notes_1.pdf)
+
+[Lecture NOtes 2](../assets/2025_Lecture_Notes_2.pdf)
+
 
 Solutions to Homework
 ======
