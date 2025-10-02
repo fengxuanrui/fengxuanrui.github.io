@@ -24,7 +24,7 @@ Lecture Notes
 
 [Lecture Notes 1](../assets/2025_Lecture_Notes_1.pdf)
 
-[Lecture NOtes 2](../assets/2025_Lecture_Notes_2.pdf)
+[Lecture Notes 2](../assets/2025_Lecture_Notes_2.pdf)
 
 
 Solutions to Homework
