@@ -46,7 +46,7 @@ Talks
 ======
 **· Kac's Program for the Landau Equation**
 
-  2025-10-25. [23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM)](https://meeting.csiam.org.cn/#/2025/), North Star International Convention Center, Changsha, China. [slides](../assets/Slides_Talk_at_CSIAM_TM33_2025_10_25.pdf)
+  2025-10-25. [23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM)](https://meeting.csiam.org.cn/#/2025/), North Star International Convention Center, Changsha, China. [slides](../assets/Talk_at_CSIAM_TM33_2025_10_25_Slides.pdf)
   
 **· Kac's Program for the Landau Equation**
 
