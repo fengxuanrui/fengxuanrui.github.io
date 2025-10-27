@@ -22,7 +22,7 @@ Publications
 ======
 **· Relative Entropy Method for Particle Approximation of the Landau Equation for Maxwellian Molecules**
         
-  Journal de Mathématiques Pures et Appliquées. Accepted for publication. Joint with José Antonio Carrillo, Shuchen Guo, Pierre-Emmanuel Jabin and Zhenfu Wang. [arXiv](https://arxiv.org/abs/2408.15035)
+  _Journal de Mathématiques Pures et Appliquées_. Accepted for publication. Joint with José Antonio Carrillo, Shuchen Guo, Pierre-Emmanuel Jabin and Zhenfu Wang. [arXiv](https://arxiv.org/abs/2408.15035)
 
 Preprints
 ======
