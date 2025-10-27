@@ -18,6 +18,12 @@ Research Interests
 
 · Kinetic Theory
 
+Publications
+======
+**· Relative Entropy Method for Particle Approximation of the Landau Equation for Maxwellian Molecules**
+        
+  Journal de Mathématiques Pures et Appliquées. Accepted for publication. Joint with José Antonio Carrillo, Shuchen Guo, Pierre-Emmanuel Jabin and Zhenfu Wang. [arXiv](https://arxiv.org/abs/2408.15035)
+
 Preprints
 ======
 **· Kac's Program for the Landau Equation** 
@@ -32,16 +38,20 @@ Preprints
         
   Joint with Zhenfu Wang. [arXiv](https://arxiv.org/abs/2411.14266)
 
-**· Relative Entropy Method for Particle Approximation of the Landau Equation for Maxwellian Molecules**
-        
-  Joint with José Antonio Carrillo, Shuchen Guo, Pierre-Emmanuel Jabin and Zhenfu Wang. [arXiv](https://arxiv.org/abs/2408.15035)
-
 **· Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space** 
         
   Joint with Zhenfu Wang. [arXiv](https://arxiv.org/abs/2310.05156)
 
 Talks
 ======
+**· Kac's Program for the Landau Equation**
+
+  2025-10-25. [23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM)](https://meeting.csiam.org.cn/#/2025/), North Star International Convention Center, Changsha, China. [slides](../assets/Slides_Talk_at_CSIAM_TM33_2025_10_25.pdf)
+  
+**· Kac's Program for the Landau Equation**
+
+  2025-10-23. [Wuhan University Academic Talks](https://maths.whu.edu.cn/info/1115/149332.htm), Wuhan University, Wuhan, China. [slides](../assets/Slides_Talk_at_Wuhan_University_2025_10_23.pdf)
+  
 **· Quantitative Propagation of Chaos for Singular First-order System on the Whole Space**
         
   2025-04-26. [Workshop on Mean Field Limit](https://bicmr.pku.edu.cn/content/show/17-3622.html?catid=KiQhKyYs), Peking University, Beijing, China. [slides](../assets/Slides_Talk_at_Workshop_on_Mean_Field_Limit_2025_04_26.pdf)
@@ -52,9 +62,9 @@ Talks
 
 Teaching
 ======
-· TA for Advanced Mathematics D, Peking University, Sep. 2024-Jan. 2025.
-
 · TA for Advanced Mathematics D, Peking University, Sep. 2025-Jan. 2026.
+
+· TA for Advanced Mathematics D, Peking University, Sep. 2024-Jan. 2025.
 
 
 
