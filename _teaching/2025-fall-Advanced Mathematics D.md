@@ -26,6 +26,10 @@ Lecture Notes
 
 [Lecture Notes 2](../assets/2025_Lecture_Notes_2.pdf)
 
+[Lecture Notes 3](../assets/2025_Lecture_Notes_3.pdf)
+
+[Lecture Notes 4](../assets/2025_Lecture_Notes_4.pdf)
+
 
 Solutions to Homework
 ======
@@ -33,9 +37,23 @@ Solutions to Homework
 
 [Solutions 2](../assets/Solutions2.pdf)
 
+[Solutions 3](../assets/Solutions3.pdf)
+
+[Solutions 4](../assets/Solutions_4.pdf)
+
+[Solutions 5](../assets/Solutions_5.pdf)
+
 
 Midterm Exams
 ======
+
+[Midterm 2018](../assets/MidtermExam-Calculus2018.pdf)
+
+[Midterm 2019](../assets/MidtermExam-Calculus2019.pdf)
+
+[Midterm 2023](../assets/MidtermExam-Calculus2023.pdf)
+
+[Midterm 2024](../assets/MidtermExam-Calculus2024.pdf)
 
 Final Exams
 ======
