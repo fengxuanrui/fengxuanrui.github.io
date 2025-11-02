@@ -46,6 +46,10 @@ Talks
 ======
 **· Kac's Program for the Landau Equation**
 
+  2025-11-02. [3rd National Mathematics Frontier PhD Academic Exchange Forum](https://mp.weixin.qq.com/s/j7ChUnGmef5N1cjoCTbf_Q), Peking University, Beijing, China. [slides](../assets/Slides_Talk_at_3rd_National_Mathematics_Frontier_PhD_Academic_Exchange_Forum_2025_11_02.pdf)
+  
+**· Kac's Program for the Landau Equation**
+
   2025-10-25. [23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM)](https://meeting.csiam.org.cn/#/2025/), North Star International Convention Center, Changsha, China. [slides](../assets/Talk_at_CSIAM_TM33_2025_10_25__Slides.pdf)
   
 **· Kac's Program for the Landau Equation**
