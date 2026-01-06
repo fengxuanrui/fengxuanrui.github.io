@@ -20,13 +20,17 @@ Research Interests
 
 Publications
 ======
+**· Quantitative Propagation of Chaos for 2D Viscous Vortex Model with General Circulations on the Whole Space** 
+        
+  _Nonlinearity_. Accepted for publication. Joint with Zhenfu Wang. [arXiv](https://arxiv.org/abs/2411.14266)
+  
 **· Quantitative Propagation of Chaos for 2D Viscous Vortex Model on the Whole Space** 
         
   _Peking Mathematical Journal_. Accepted for publication. Joint with Zhenfu Wang. [arXiv](https://arxiv.org/abs/2310.05156)
 
 **· Relative Entropy Method for Particle Approximation of the Landau Equation for Maxwellian Molecules**
         
-  _Journal de Mathématiques Pures et Appliquées_. Accepted for publication. Joint with José Antonio Carrillo, Shuchen Guo, Pierre-Emmanuel Jabin and Zhenfu Wang. [arXiv](https://arxiv.org/abs/2408.15035)
+  _Journal de Mathématiques Pures et Appliquées_. Accepted for publication. Joint with José Antonio Carrillo, Shuchen Guo, Pierre-Emmanuel Jabin and Zhenfu Wang. [Journal](https://www.sciencedirect.com/science/article/pii/S0021782425001825) [arXiv](https://arxiv.org/abs/2408.15035)
 
 Preprints
 ======
@@ -37,10 +41,6 @@ Preprints
 **· Propagation of Chaos for 2D Log Gas on the Whole Space** 
         
   Joint with Shuzhe Cai, Yun Gong and Zhenfu Wang. [arXiv](https://arxiv.org/abs/2411.14777)
-
-**· Quantitative Propagation of Chaos for 2D Viscous Vortex Model with General Circulations on the Whole Space** 
-        
-  Joint with Zhenfu Wang. [arXiv](https://arxiv.org/abs/2411.14266)
 
 Talks
 ======
