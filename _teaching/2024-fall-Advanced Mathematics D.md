@@ -32,6 +32,8 @@ Lecture Notes
 
 [Lecture Notes 6](../assets/Lecture_Notes_6.pdf)
 
+[All Lecture Notes](../assetes/Lecture_Notes_2024.pdf)
+
 Solutions to Homework
 ======
 [Solutions 1](../assets/Solutions1.pdf)
