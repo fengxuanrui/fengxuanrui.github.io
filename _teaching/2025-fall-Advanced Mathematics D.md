@@ -66,17 +66,36 @@ Solutions to Homework
 
 [Solutions 12](../assets/Solutions_12.pdf)
 
-
 Midterm Exams
 ======
+[Midterm Exam 2018](../assets/MidtermExam-Calculus2018.pdf)
 
-[Midterm 2018](../assets/MidtermExam-Calculus2018.pdf)
+[Midterm Exam 2019 with Solutions](../assets/MidtermExam-Calculus2019.pdf)
 
-[Midterm 2019](../assets/MidtermExam-Calculus2019.pdf)
+[Midterm Exam 2021](../images/MidtermExam-Calculus2021.jpeg)
 
-[Midterm 2023](../assets/MidtermExam-Calculus2023.pdf)
+[Midterm Exam 2023](../assets/MidtermExam-Calculus2023.pdf)
 
-[Midterm 2024](../assets/MidtermExam-Calculus2024.pdf)
+[Midterm Exam 2023 Solutions 1](../images/MidtermExam-Calculus2023-Solution1.jpg)
+
+[Midterm Exam 2023 Solutions 2](../images/MidtermExam-Calculus2023-Solution2.jpg)
+
+[Midterm Exam 2023 Solutions 3](../images/MidtermExam-Calculus2023-Solution3.jpg)
+
+[Midterm Exam 2024](../assets/MidtermExam-Calculus2024.pdf)
 
 Final Exams
 ======
+[Final Exam 2021 with Solutions](../assets/FinalExam-Calculus2021Solutions.pdf)
+
+[Final Exam 2022A](../assets/FinalExam-Calculus2022A.pdf)
+
+[Final Exam 2022A with Solutions](../assets/FinalExam-Calculus2022ASolutions.pdf)
+
+[Final Exam 2022B](../assets/FinalExam-Calculus2022B.pdf)
+
+[Final Exam 2022B with Solutions](../assets/FinalExam-Calculus2022BSolutions.pdf)
+
+[Final Exam 2023](../assets/FinalExam-Calculus2023.pdf)
+
+[Final Exam 2023 with Solutions](../assets/FinalExam-Calculus2023Solutions.pdf)
