@@ -30,6 +30,15 @@ Lecture Notes
 
 [Lecture Notes 4](../assets/2025_Lecture_Notes_4.pdf)
 
+[Lecture Notes 5](../assets/2025_Lecture_Notes_5.pdf)
+
+[Lecture Notes 6](../assets/2025_Lecture_Notes_6.pdf)
+
+[Lecture Notes 7](../assets/2025_Lecture_Notes_7.pdf)
+
+[Lecture Notes 8](../assets/2025_Lecture_Notes_8.pdf)
+
+[All Lecture Notes](../assets/2025_Lecture_Notes.pdf)
 
 Solutions to Homework
 ======
@@ -42,6 +51,20 @@ Solutions to Homework
 [Solutions 4](../assets/Solutions_4.pdf)
 
 [Solutions 5](../assets/Solutions_5.pdf)
+
+[Solutions 6](../assets/Solutions_6.pdf)
+
+[Solutions 7](../assets/Solutions_7.pdf)
+
+[Solutions 8](../assets/Solutions_8.pdf)
+
+[Solutions 9](../assets/Solutions_9.pdf)
+
+[Solutions 10](../assets/Solutions_10.pdf)
+
+[Solutions 11](../assets/Solutions_11.pdf)
+
+[Solutions 12](../assets/Solutions_12.pdf)
 
 
 Midterm Exams
