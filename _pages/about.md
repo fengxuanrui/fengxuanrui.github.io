@@ -20,9 +20,9 @@ Research Interests
 
 Publications
 ======
-**· [Quantitative propagation of chaos for 2D viscous vortex model on the whole space](https://arxiv.org/abs/2310.05156)** 
+**· [Quantitative propagation of chaos for 2D viscous vortex model on the whole space](https://link.springer.com/article/10.1007/s42543-025-00118-x)** 
         
-  _Peking Mathematical Journal_. Accepted for publication. Joint with Zhenfu Wang.
+  _Peking Mathematical Journal (2026)_. Joint with Zhenfu Wang.
   
 **· [Quantitative propagation of chaos for 2D viscous vortex model with general circulations on the whole space](https://iopscience.iop.org/article/10.1088/1361-6544/ae3421/meta)** 
         
@@ -44,6 +44,10 @@ Preprints
 
 Talks
 ======
+**· From particle systems to the Landau equation**
+
+  Upcoming. [Sino-Russian Student Mathematical Seminar](https://www.mathnet.ru/eng/conf2679), Peking University, Beijing, China.
+  
 **· Kac's program for the Landau equation**
 
   2025-11-02. [3rd National Mathematics Frontier PhD Academic Exchange Forum](https://mp.weixin.qq.com/s/j7ChUnGmef5N1cjoCTbf_Q), Peking University, Beijing, China. [slides](../assets/Slides_Talk_at_3rd_National_Mathematics_Frontier_PhD_Academic_Exchange_Forum_2025_11_02.pdf)
