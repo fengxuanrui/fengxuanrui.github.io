@@ -44,9 +44,13 @@ Preprints
 
 Talks
 ======
+**· Kac's program for the Landau equation (poster session)**
+
+  2026-04-24. [Graduate Research Achievements Exchange Exhibition for Pure Mathematics](https://mp.weixin.qq.com/s/9IjatBWu_P29BVjMkU-I1A), Peking University, Beijing, China. [poster](../assets/Poster_2026_04_24.pdf)
+
 **· From particle systems to the Landau equation**
 
-  2026-04-03. [Sino-Russian Student Mathematical Seminar](https://www.mathnet.ru/eng/conf2679), Peking University, Beijing, China. [video](https://www.mathnet.ru/php/seminars.phtml?presentid=49785&option_lang=eng)
+  2026-04-03. [Sino-Russian Student Mathematical Seminar](https://www.mathnet.ru/eng/conf2679), Peking University, Beijing, China. [slides](../assets/Slides_Talk_at_Sino_Russian_Student_Mathematical_Seminar_2026_04_03.pdf) [video](https://www.mathnet.ru/php/seminars.phtml?presentid=49785&option_lang=eng)
   
 **· Kac's program for the Landau equation**
 
