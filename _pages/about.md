@@ -22,7 +22,7 @@ Publications
 ======
 **· [Quantitative propagation of chaos for 2D viscous vortex model on the whole space](https://link.springer.com/article/10.1007/s42543-025-00118-x)** 
         
-  _Peking Mathematical Journal (2026)_. Joint with Zhenfu Wang.
+  _Peking Math. J. (2026)_. Joint with Zhenfu Wang.
   
 **· [Quantitative propagation of chaos for 2D viscous vortex model with general circulations on the whole space](https://iopscience.iop.org/article/10.1088/1361-6544/ae3421/meta)** 
         
