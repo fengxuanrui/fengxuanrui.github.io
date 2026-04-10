@@ -46,7 +46,7 @@ Talks
 ======
 **· From particle systems to the Landau equation**
 
-  Upcoming. [Sino-Russian Student Mathematical Seminar](https://www.mathnet.ru/eng/conf2679), Peking University, Beijing, China.
+  2026-04-03. [Sino-Russian Student Mathematical Seminar](https://www.mathnet.ru/eng/conf2679), Peking University, Beijing, China. [video](https://www.mathnet.ru/php/seminars.phtml?presentid=49785&option_lang=eng)
   
 **· Kac's program for the Landau equation**
 
