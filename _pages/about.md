@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in the second year at the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) (SMS) and the [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/) (BICMR), [Peking University](https://www.pku.edu.cn/) (PKU), under the supervision of Professor [Zhenfu Wang](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/) at BICMR. Here is my [CV](../assets/CV.pdf).
+I am currently a Ph.D. candidate in the second year at the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) (SMS) and the [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/) (BICMR), [Peking University](https://www.pku.edu.cn/) (PKU), under the supervision of Professor [Zhenfu Wang](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/) at BICMR. 
 
 Research Interests
 ======
@@ -42,35 +42,6 @@ Preprints
         
   _arXiv preprint arXiv:2411.14777_. Joint with Shuzhe Cai, Yun Gong and Zhenfu Wang.
 
-Talks
-======
-**· Kac's program for the Landau equation (poster session)**
-
-  2026-04-24. [Graduate Research Achievements Exchange Exhibition for Pure Mathematics](https://mp.weixin.qq.com/s/9IjatBWu_P29BVjMkU-I1A), Peking University, Beijing, China. [poster](../assets/Poster_2026_04_24.pdf)
-
-**· From particle systems to the Landau equation**
-
-  2026-04-03. [Sino-Russian Student Mathematical Seminar](https://www.mathnet.ru/eng/conf2679), Peking University, Beijing, China. [slides](../assets/Slides_Talk_at_Sino_Russian_Student_Mathematical_Seminar_2026_04_03.pdf) [video](https://www.mathnet.ru/php/seminars.phtml?presentid=49785&option_lang=eng)
-  
-**· Kac's program for the Landau equation**
-
-  2025-11-02. [3rd National Mathematics Frontier PhD Academic Exchange Forum](https://mp.weixin.qq.com/s/j7ChUnGmef5N1cjoCTbf_Q), Peking University, Beijing, China. [slides](../assets/Slides_Talk_at_3rd_National_Mathematics_Frontier_PhD_Academic_Exchange_Forum_2025_11_02.pdf)
-  
-**· Kac's program for the Landau equation**
-
-  2025-10-25. [23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM)](https://meeting.csiam.org.cn/#/2025/), North Star International Convention Center, Changsha, China. [slides](../assets/Talk_at_CSIAM_TM33_2025_10_25__Slides.pdf)
-  
-**· Kac's program for the Landau equation**
-
-  2025-10-23. [Wuhan University Academic Talks](https://maths.whu.edu.cn/info/1115/149332.htm), Wuhan University, Wuhan, China. [slides](../assets/Slides_Talk_at_Wuhan_University_2025_10_23.pdf)
-  
-**· Quantitative propagation of chaos for singular first-order system on the whole space**
-        
-  2025-04-26. [Workshop on Mean Field Limit](https://bicmr.pku.edu.cn/content/show/17-3622.html?catid=KiQhKyYs), Peking University, Beijing, China. [slides](../assets/Slides_Talk_at_Workshop_on_Mean_Field_Limit_2025_04_26.pdf)
-
-**· Quantitative propagation of chaos for singular first-order system on the whole space**
-        
-   2024-12-27. [Stochastic Webinar](https://math.bit.edu.cn/xsbg/5d6f3f77f0e247d8a2068492ff3b5e5d.htm), Chinese Academy of Sciences and Beijing Institute of Technology, Online. [slides](../assets/Slides_Talk_at_Stochastic_Webinar_2024_12_27.pdf) [video](https://www.bilibili.com/video/BV1P7CJYLE2N/?spm_id_from=333.999.0.0&vd_source=edef62aa59160378e3025dbf586dfdd0)
 
 Teaching
 ======
