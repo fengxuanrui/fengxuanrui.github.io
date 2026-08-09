@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in the second year at the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) (SMS) and the [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/) (BICMR), [Peking University](https://www.pku.edu.cn/) (PKU), under the supervision of Professor [Zhenfu Wang](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/) at BICMR. 
+I am currently a Ph.D. candidate in the second year at the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) (SMS) and the [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/) (BICMR), [Peking University](https://www.pku.edu.cn/) (PKU), under the supervision of Professor [Zhenfu Wang](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/) at BICMR. Here is my [CV](.../assets/CV.pdf).
 
 Research Interests
 ======
@@ -20,6 +20,10 @@ Research Interests
 
 Publications
 ======
+**· [Kac's program for the Landau equation](https://link.springer.com/article/10.1007/s00205-026-02230-3)** 
+
+  _Arch. Rational. Mech. Anal. 250(4), 72 (2026)_. Joint with Zhenfu Wang.
+  
 **· [Quantitative propagation of chaos for 2D viscous vortex model on the whole space](https://link.springer.com/article/10.1007/s42543-025-00118-x)** 
         
   _Peking Math. J. (2026)_. Joint with Zhenfu Wang.
@@ -34,9 +38,6 @@ Publications
 
 Preprints
 ======
-**· [Kac's program for the Landau equation](https://arxiv.org/abs/2506.14309)** 
-
-  _arXiv preprint arXiv:2506.14309_. Joint with Zhenfu Wang.
 
 **· [Propagation of chaos for 2D log gas on the whole space](https://arxiv.org/abs/2411.14777)** 
         
