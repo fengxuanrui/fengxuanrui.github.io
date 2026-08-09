@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in the second year at the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) (SMS) and the [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/) (BICMR), [Peking University](https://www.pku.edu.cn/) (PKU), under the supervision of Professor [Zhenfu Wang](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/) at BICMR. Here is my [CV](.../assets/CV.pdf).
+I am currently a Ph.D. candidate in the second year at the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) (SMS) and the [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/) (BICMR), [Peking University](https://www.pku.edu.cn/) (PKU), under the supervision of Professor [Zhenfu Wang](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/) at BICMR. Here is my [CV](../assets/CV.pdf).
 
 Research Interests
 ======
