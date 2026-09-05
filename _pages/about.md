@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in the second year at the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) (SMS) and the [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/) (BICMR), [Peking University](https://www.pku.edu.cn/) (PKU), under the supervision of Professor [Zhenfu Wang](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/) at BICMR. Here is my [CV](../assets/CV.pdf).
+I am currently a Ph.D. candidate in the third year at the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) (SMS) and the [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/) (BICMR), [Peking University](https://www.pku.edu.cn/) (PKU), under the supervision of Professor [Zhenfu Wang](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/) at BICMR. Here is my [CV](../assets/CV.pdf).
 
 Research Interests
 ======
-· Partial Differential Equations
+· Partial differential equations
 
-· Mean-field Limit and Propagation of Chaos for Many Particle Systems
+· Mean-field limit and propagation of chaos for many particle systems
 
 · Kinetic Theory
 
@@ -38,6 +38,9 @@ Publications
 
 Preprints
 ======
+**· [Uniform-in-time relative entropy estimates for Kac's approximation of the Landau equation](https://arxiv.org/abs/2608.29815)** 
+        
+  _arXiv preprint arXiv:2608.29815_. Joint with Chenguang Liu and Zhenfu Wang.
 
 **· [Propagation of chaos for 2D log gas on the whole space](https://arxiv.org/abs/2411.14777)** 
         
