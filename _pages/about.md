@@ -38,6 +38,10 @@ Publications
 
 Preprints
 ======
+**· [Modulated Gibbs measure and mean-field limit for 3D Vlasov-Poisson-Fokker-Planck equations](https://arxiv.org/abs/2609.08640)** 
+        
+  _arXiv preprint arXiv:2609.08640_. Joint with Zhenfu Wang.
+  
 **· [Uniform-in-time relative entropy estimates for Kac's approximation of the Landau equation](https://arxiv.org/abs/2608.29815)** 
         
   _arXiv preprint arXiv:2608.29815_. Joint with Chenguang Liu and Zhenfu Wang.
